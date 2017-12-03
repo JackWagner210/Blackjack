@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512286256 source:c:\users\jackw\onedrive\desktop\cs 1\blackjack\game.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+
